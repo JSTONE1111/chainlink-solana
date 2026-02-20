@@ -16,5 +16,5 @@ default = []
 
 [dependencies]
 solana-program = "1.17.25"
-borsh = "0.9.1"
+borsh = "1.6.0"
 borsh-derive = "0.9.1"
